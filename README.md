@@ -2,7 +2,6 @@
 
 This repository contains Python course notes covering fundamental and advanced language concepts. Here are some key examples:
 
-
 ## Data Types
 
 - Basic data types include integers (`int`) and floating-point numbers (`float`).
