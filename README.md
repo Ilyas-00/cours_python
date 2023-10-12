@@ -5,7 +5,7 @@ This repository contains Python course notes covering fundamental and advanced l
 ## Data Types
 
 - Basic data types include integers (`int`) and floating-point numbers (`float`).
-- Mathematical operations, such as division (`/`) and exponentiation (`**`).
+- Mathematical operations, such as division (`/`) and exponentiation (`**`).  
 - Use of the modulo operator (`%`) to obtain the remainder of a division.
 
 ## Variables
